@@ -23,7 +23,7 @@
 - English and German (using Duolingo, Reddit, and Discord for practice)
 
 🤝 **Collaboration:**
-I’m eager to collaborate on full-stack projects and develop pentesting tools. Let’s connect!
+I’m eager to collaborate on open source , back end web and cybersec projects. Let’s connect!
 
   <div>
     <img src="https://img.shields.io/badge/Spring-balck?logo=spring&logoColor=white&style=for-the-badge"></img>

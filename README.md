@@ -5,5 +5,4 @@
 - 💞️ I’m looking to collaborate on Full Stacks projects and pentesting tools
 
 - My main language is Java, but i'm going up in python so good
-- Currently using Spring Framework for web application studies
 

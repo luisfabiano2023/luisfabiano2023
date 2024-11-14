@@ -28,6 +28,8 @@ I’m eager to collaborate on open source , back end web and cybersec projects. 
     <img src="https://img.shields.io/badge/Spring-balck?logo=spring&logoColor=white&style=for-the-badge"></img>
     <img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=yellow&style=for-the-badge"></img>
     <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white&style=for-the-badge"></img>
-    <img src="https://img.shields.io/badge/Ubuntu-Server-orange?logo=ubuntu&logoColor=white&style=for-the-badge"></img>
+    <img src="https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu&logoColor=white&style=for-the-badge"></img>
+    <img src="https://img.shields.io/badge/docker-blue?logo=docker&logoColor=white&style=for-the-badge"></img>
+      
   </div>
 

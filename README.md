@@ -20,6 +20,7 @@
 - Data Science
 - Containers
 - English and German (using Duolingo, Reddit, and Discord for practice)
+- Operational System and Computing Network (Actually looking for Certification)
 
 🤝 **Collaboration:**
 I’m eager to collaborate on open source , back end web and cybersec projects. Let’s connect!

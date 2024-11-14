@@ -11,15 +11,14 @@
   # About Me
 
 👀 **Interests:**
-- Astronomy
-- Neuroscience
 - Cybersecurity
 - Open Source Intelligence (OSINT)
 - Machine Learning
 
 🌱 **Currently Learning:**
-- Penetration Testing (Pentesting)
+- Penetration Testing 
 - Data Science
+- Containers
 - English and German (using Duolingo, Reddit, and Discord for practice)
 
 🤝 **Collaboration:**
